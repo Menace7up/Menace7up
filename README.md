@@ -1,3 +1,3 @@
-7up developper in JavaScript 
+7up developper 
 
 
